@@ -1,0 +1,43 @@
+---
+title: "Programming with GIS Data"
+author: "Your Name"
+date: "Due: May 8, 2023"
+output: html_document
+number-sections: true
+number-depth: 2
+---
+
+
+# Data Description
+
+In this assignment, you will pick one dataset from the following options:
+
+## Drug Distribution
+
+Skim the PDFs included in the data folder before you start.
+
+Buhaug, Halvard & Päivi Lujala 2005. Accounting for Scale: Measuring Geography in Quantitative Studies of Civil War. Political Geography 24: 399-418.
+
+Data downloaded from http://www.paivilujala.com/drugdata.html
+
+
+## Lord of the Rings - Middle Earth
+
+https://scholarworks.wm.edu/asoer/3/
+
+Vector Shapefiles contained in the data/Middle Earth folder.
+
+
+## Natural Earth Data
+
+Download data from https://www.naturalearthdata.com/downloads/10m-physical-vectors/
+
+Use at least 3 different data sets to create a map showing features that you are interested in.
+
+
+
+# Assignment
+
+Create a map that incorporates interesting features of the dataset you've chosen. You may add data from other sources if you would like.
+
+Write 3-5 sentences explaining what you find interesting about your data.
