@@ -1,10 +1,9 @@
 ---
 title: "Programming with GIS Data"
+execute:
+  error: true
 author: "Your Name"
-date: "Due: May 12, 2023"
 output: html_document
-number-sections: true
-number-depth: 2
 ---
 
 
